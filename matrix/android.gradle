@@ -30,7 +30,6 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 'android-28'
-    buildToolsVersion '27.0.3'
 
     lintOptions {
         disable 'InvalidPackage'
